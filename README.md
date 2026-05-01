@@ -1,65 +1,75 @@
-# 👋 Hi, I'm Fahima Jannat
+# 👩‍💻 Candidate Name - Data Science Portfolio
 
-💻 **Python Developer** | 🎓 CSE Student | 📈 Digital Marketing Enthusiast  
-
----
-
-## 🧑‍💼 About Me
-I am a passionate Python developer with a strong interest in building efficient, scalable, and user-friendly applications. Currently pursuing a BSc (Honours) in Computer Science and Engineering, I am continuously learning new technologies and improving my problem-solving skills.  
-
-Alongside programming, I also have knowledge of digital marketing, which helps me understand user behavior and business needs better.
+Hi there! I'm **Fahima Jannat**, a passionate Data Scientist with a strong foundation in statistics, machine learning, and data storytelling. I love turning raw data into actionable insights and building models that solve real-world problems.
 
 ---
 
-## 🚀 Skills
-- Programming: Python  
-- Web Basics: HTML, CSS  
-- Tools: Git, GitHub  
-- Concepts: Problem Solving, Data Structures  
-- Other: Digital Marketing  
+## 🧠 Skills & Technologies
+
+- **Languages**: Python, SQL, R
+- **Libraries**: Pandas, NumPy, Scikit-learn, TensorFlow, Keras, XGBoost, Matplotlib, Seaborn
+- **Databases**: MySQL, PostgreSQL, MongoDB
+- **Tools**: Jupyter Notebook, Tableau, Power BI, Git, Docker, AWS (S3, EC2)
+- **Concepts**: Regression, Classification, NLP, Time Series Forecasting, A/B Testing, Clustering
 
 ---
 
-## 📂 Projects
+## 📁 Projects
 
-### 🔹 Online Ticket Booking System
-A web-based application that allows users to search, book, and manage tickets easily.  
-**Features:**
-- User registration and login system  
-- Ticket search and booking functionality  
-- Payment integration (basic simulation)  
-- Admin panel for managing bookings  
-
-**Tech Used:** Python, HTML, CSS  
-
----
-
-### 🔹 Digital Marketing Campaign Analyzer
-A Python-based tool to analyze marketing campaign performance and generate insights.  
-**Features:**
-- Data analysis of campaign metrics  
-- Visualization of engagement and reach  
-- Performance comparison reports  
-
-**Tech Used:** Python (Pandas, Matplotlib)  
+### 1. 📊 Customer Churn Prediction
+**Goal**: Identify customers likely to churn for a telecom company.  
+**Tech Stack**: Python, Scikit-learn, Logistic Regression, Random Forest  
+- Cleaned and explored 6K+ customer records
+- Trained multiple ML models with GridSearchCV
+- Achieved **89% accuracy** with optimized random forest
+- Deployed using Streamlit for demo purposes  
+[🔗 View Project](https://github.com/priyamehta/churn-prediction)
 
 ---
 
-## 🎓 Education
-- 🎓 **BSc (Honours) in Computer Science and Engineering (CSE)**  
+### 2. 🧾 Retail Sales Forecasting
+**Goal**: Forecast future sales using time series data from a chain of stores.  
+**Tech Stack**: Python, ARIMA, Facebook Prophet  
+- Implemented time series models with proper decomposition
+- Compared Prophet vs. ARIMA performance
+- Improved forecast accuracy by 15% using seasonal tuning  
+[🔗 View Project](https://github.com/priyamehta/retail-sales-forecasting)
 
 ---
 
-## 📫 Contact Me
-- 📧 Email: jannatfahima11@gmail.com  
+### 3. 💬 Sentiment Analysis on Product Reviews
+**Goal**: Classify customer reviews as positive, negative, or neutral using NLP.  
+**Tech Stack**: Python, NLTK, TF-IDF, XGBoost  
+- Preprocessed 50K+ product reviews
+- Built text classification models using pipeline
+- Achieved **92% F1-score** on test data  
+[🔗 View Project](https://github.com/priyamehta/sentiment-analysis-nlp)
 
 ---
 
-## 🌱 Currently Learning
-- Advanced Python  
-- Web Development (Django / Flask)  
-- Data Analysis  
+### 4. 📈 Airbnb Data Dashboard (Tableau)
+**Goal**: Create an interactive dashboard to explore Airbnb trends in NYC.  
+**Tech Stack**: Tableau  
+- Built dynamic visuals on pricing, availability & neighborhoods  
+[🔗 View Dashboard](https://public.tableau.com/app/profile/priyamehta/)
 
 ---
 
-⭐ *Feel free to explore my repositories and connect with me!*
+## 🏅 Certifications
+
+- IBM Data Science Professional Certificate (Coursera)
+- Google Advanced Data Analytics Certificate
+- Tableau Data Visualization Specialist
+
+---
+
+## 📬 Let's Connect!
+
+- 📧 Email: jannatfahima11@gmail.com
+- 💼 [LinkedIn](https://linkedin.com/in/priyamehta-ds)  
+- 📂 [Portfolio Website](https://priyamehta.dev)  
+- 🐙 [GitHub](https://github.com/priyamehta)
+
+---
+
+> “Data is a precious thing and will last longer than the systems themselves.” – Tim Berners-Lee
