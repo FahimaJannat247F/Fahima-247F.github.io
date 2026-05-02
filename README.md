@@ -2,7 +2,7 @@
 
 Dear Sir! I'm **Fahima Jannat**, a passionate Data Scientist with a strong foundation in statistics, machine learning, and data storytelling. I love turning raw data into actionable insights and building models that solve real-world problems.
 
----
+--- 
 
 ## 🧠 Skills & Technologies
 
